@@ -16,3 +16,4 @@ UTF-8, LF, カンマ区切り
 |sexual_ja.csv|性的|
 |ethnic_slur_ja.csv|差別|
 |radioactive_ja.csv|放射脳|
+|new_religion_ja.csv|新興宗教|
